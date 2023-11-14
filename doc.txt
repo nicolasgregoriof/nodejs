@@ -1,0 +1,4 @@
+Realiza checagem total das aplicações
+npx npm-check-updates -u
+npm install
+
